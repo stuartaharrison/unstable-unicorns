@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Jet Brains Folder
+.idea/
+
+# Ignore React Build Folder
+build/
